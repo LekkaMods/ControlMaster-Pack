@@ -24,7 +24,7 @@ Please note that these features are available only in the full version of the mo
 ## **Installation Instructions**
 
 1. **Download the Mod:**
-   - Download the latest version of **ControllerCommand Mods** from [(https://github.com/LekkaMods/ControlMaster-Pack)].
+   - Download the latest version of **ControllerCommand Mods** from https://github.com/LekkaMods/ControlMaster-Pack.
 
 2. **Extract the Files:**
    - Extract the downloaded files to a folder.
@@ -46,9 +46,9 @@ To activate a cheat, simply press the corresponding controller buttons as descri
 
 If you have any questions, need support, or would like to purchase the full version of the mod, please contact:
 
-- **Name:** [Your Name]
-- **Email:** [Your Email Address]
-- **Website:** [Your Website, if applicable]
+- **Name:** Lekka Mods
+- **Email:** CyberGuard203@gmail.com
+- **Website:** https://patreon.com/LekkaMods
 
 ## **License**
 
