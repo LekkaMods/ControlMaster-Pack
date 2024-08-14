@@ -21,7 +21,7 @@ Here are the controller combinations to activate the cheats:
 - **Invincibility:** Press `ScriptPadRight` + `ScriptLT`
 - **Super Jump:** Press `ScriptPadLeft` + `ScriptLB`
 
-Please note that these features are available only in the full version of the mod. 
+
 
 ## **Installation Instructions**
 
@@ -42,7 +42,7 @@ Please note that these features are available only in the full version of the mo
 
 ## **Usage**
 
-To activate a cheat, simply press the corresponding controller buttons as described above. Note that certain features may require the full version of the mod, which is unlocked through a license key.
+To activate a cheat, simply press the corresponding controller buttons as described above.
 
 ## **Contact and Support**
 
